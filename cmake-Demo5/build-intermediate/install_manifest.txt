@@ -1,0 +1,4 @@
+/mnt/c/Users/gfniu3/Downloads/cmake-demo-master/cmake-Demo5/build-intermediate/_CPack_Packages/Linux/TZ/Demo5-9.5.2-Linux/./bin/Demo5
+/mnt/c/Users/gfniu3/Downloads/cmake-demo-master/cmake-Demo5/build-intermediate/_CPack_Packages/Linux/TZ/Demo5-9.5.2-Linux/./include/config.h
+/mnt/c/Users/gfniu3/Downloads/cmake-demo-master/cmake-Demo5/build-intermediate/_CPack_Packages/Linux/TZ/Demo5-9.5.2-Linux/./lib/libMathFunctions.a
+/mnt/c/Users/gfniu3/Downloads/cmake-demo-master/cmake-Demo5/build-intermediate/_CPack_Packages/Linux/TZ/Demo5-9.5.2-Linux/./include/MathFunctions.h
