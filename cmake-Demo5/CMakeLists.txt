@@ -17,7 +17,7 @@ set (Demo_VERSION_PATCH 2)
 
 # 设置编译参数
 #add_compile_options(-std=c++11)
-add_definitions(-std=c++11)
+add_definitions(-std=c++11 -DRYAN_USERDEF)
 
 # 设置install文件安装路径
 SET(CMAKE_INSTALL_PREFIX .)

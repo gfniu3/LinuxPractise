@@ -35,5 +35,9 @@ int main(int argc, char *argv[])
     double result = pow(base, exponent);
 #endif
     printf("%g ^ %g is %g\n", base, exponent, result);
+	
+#ifdef RYAN_USERDEF
+	printf("ngf test: test user definition macro.\n");
+#endif
     return 0;
 }
